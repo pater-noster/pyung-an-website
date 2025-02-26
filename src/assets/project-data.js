@@ -24,7 +24,10 @@ export default [
   {
     number: 106,
     title: "문봉동 164-36 공장/근생 신축공사",
-    image: [require("./images/project_images/pyung_an_project_none.jpg")],
+    image: [
+      require("./images/project_images/pyung_an_project_106_01.webp"),
+      require("./images/project_images/pyung_an_project_106_02.webp")
+    ],
     date: "2025.06(예정)",
     location: "경기도 고양시",
     category: "업무/공장",
