@@ -63,7 +63,7 @@ export default [
     ],
     date: "2025.03(예정)",
     location: "서울시 강남구",
-    category: "업무/공장",
+    category: "상업시설",
     client: "논현동 8315",
     floors: "지하1층, 지상4층",
     size: "1,694.49",
